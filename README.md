@@ -13,15 +13,16 @@
   - Cloud Startup (2023)  
   - Guest lecturer in bachelor’s and master’s courses
 
-- 💼 **Professional Experience:**  
+- 💼 **Professional Experience:**  (till 08.2025)
   - **Freelance Dev:** C/C++, embedded & networking — 18m  
   - **Mid Dev, LVA Ltd:** C/C++, NodeJS, Python, Bash — embedded, IoT, ML, automation — 20m  
   - **Mid Robotics, Festo:** C/C++, Python — 14m  
   - **Senior Robotics, Festo:** C/C++, Python, SW architecture, process representative — 14m  
   - **SW Expert, Digital Lights:** C/C++, Python, C#, SW design & architecture — 12m  
   - **Solution Architect, Digital Lights:** IoT full cycle, AI/ML, system design, client & partner management — 12m  
-  - **Solution Architect, Bronia AI:** IoT Edge & Cloud, design & relations — 8m  
-  - **Founder & CEO, VConsult:** 12m (CEO actively: 1m)
+  - **Solution Architect, Bronia AI:** IoT Edge & Cloud, design & relations — 8m
+  - **Solution Architect, Smart Farm Robotics:** - 9m
+  - **Founder & CEO, VConsult:** 18m
 
 - 🛠️ **Technical Skills:**  
   - C and C++ (system & embedded)
