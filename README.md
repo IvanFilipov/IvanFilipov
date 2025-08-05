@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ivan Filipov
+# Ivan Filipov - Solution Architect & CEO @ [VConsult](vconsult.online)
 
 ## About Me
 
